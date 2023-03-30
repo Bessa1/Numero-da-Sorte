@@ -5,4 +5,4 @@
 #### Você possuí 10 vidas/chances de adivinhar.
 #### Há dicas se você está chegando perto.
 
-##Foram usado WHILE como laço de repetição e IF para condição
+###Foram usado WHILE como laço de repetição e IF para condição
